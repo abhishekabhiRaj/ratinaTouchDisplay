@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ratinaTouchDisplay/static/css/main.b8ffb0b5.chunk.css",
+    "main.js": "/ratinaTouchDisplay/static/js/main.cf153b8f.chunk.js",
+    "main.js.map": "/ratinaTouchDisplay/static/js/main.cf153b8f.chunk.js.map",
+    "runtime-main.js": "/ratinaTouchDisplay/static/js/runtime-main.1835cf6c.js",
+    "runtime-main.js.map": "/ratinaTouchDisplay/static/js/runtime-main.1835cf6c.js.map",
+    "static/css/2.229ed62f.chunk.css": "/ratinaTouchDisplay/static/css/2.229ed62f.chunk.css",
+    "static/js/2.00f7c6b6.chunk.js": "/ratinaTouchDisplay/static/js/2.00f7c6b6.chunk.js",
+    "static/js/2.00f7c6b6.chunk.js.map": "/ratinaTouchDisplay/static/js/2.00f7c6b6.chunk.js.map",
+    "index.html": "/ratinaTouchDisplay/index.html",
+    "static/css/2.229ed62f.chunk.css.map": "/ratinaTouchDisplay/static/css/2.229ed62f.chunk.css.map",
+    "static/css/main.b8ffb0b5.chunk.css.map": "/ratinaTouchDisplay/static/css/main.b8ffb0b5.chunk.css.map",
+    "static/js/2.00f7c6b6.chunk.js.LICENSE.txt": "/ratinaTouchDisplay/static/js/2.00f7c6b6.chunk.js.LICENSE.txt",
+    "static/media/home.addb4e9a.jpg": "/ratinaTouchDisplay/static/media/home.addb4e9a.jpg",
+    "static/media/home.e3c564e6.png": "/ratinaTouchDisplay/static/media/home.e3c564e6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1835cf6c.js",
+    "static/css/2.229ed62f.chunk.css",
+    "static/js/2.00f7c6b6.chunk.js",
+    "static/css/main.b8ffb0b5.chunk.css",
+    "static/js/main.cf153b8f.chunk.js"
+  ]
+}
